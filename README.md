@@ -48,8 +48,7 @@ Para rodar este projeto, você precisará de uma chave de API gratuita:
 3.  Adicione-a ao seu arquivo `.env`.
 
 > [!TIP]
-> Veja a execução do projeto no gif
-> <img width="1910" height="1004" alt="image" src="https://github.com/user-attachments/assets/acf47280-1399-4bd0-9843-f20c20d1d919" />
+> Veja a execução do projeto em [gif_mentorPlanilha.gif](https://github.com/marioluciofjr/checkpoint_alura_nivel1_especialistaIA/blob/main/gif_mentorPlanilha.gif)
 
 
 > [!IMPORTANT]
