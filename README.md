@@ -52,7 +52,6 @@ Para rodar este projeto, você precisará de uma chave de API gratuita:
 
 
 > [!IMPORTANT]
-> Se quiser conversar sobre esse projeto, basta acessar a versão [`TalkToGitHub`](https://talktogithub.com/marioluciofjr/checkpoint_alura_nivel1_especialistaIA) <br>
 > Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial: [`Codebase - mentorPlanilha`](https://code2tutorial.com/tutorial/06b61b51-451a-454d-a1a1-42c09c3a6ad3/index.md)
 
 
